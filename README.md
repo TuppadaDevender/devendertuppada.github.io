@@ -1,1 +1,47 @@
-# devendertuppada.github.io
+<html lang="en"><head>
+      <link rel="stylesheet" href="p1.css">
+      <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+      <meta charset="UTF-8">
+      <title>Computer Vision for Fashion Matching</title>
+   <style> body,h1 {font-family: "Raleway", Arial, sans-serif}
+   h1 {letter-spacing: 6px}
+   .w3-row-padding img {margin-bottom: 12px}
+   </style>
+   </head>
+
+
+   <body>
+      <header class="w3-panel w3-center" style="padding:32px 16px">
+         <nav>
+            <ul>
+               <li class="active"><a href="index.html">Home</a></li>
+               <li><a href="problem.html">Problem</a></li>
+               <li><a href="sensors.html">Sensors</a></li>
+               <li><a href="patterns.html">Pattern Recognition</a></li>
+               <li><a href="succfail.html">Successes &amp; Failures</a></li>
+               <li><a href="challenges.html">Challenges</a></li>
+               <li><a href="conclusion.html">Future &amp; Conclusion</a></li>
+               <li><a href="quiz.html">Quiz</a></li>
+               <li><a href="references.html">References</a></li>
+            </ul>
+         </nav>
+      </header>
+      <main>
+         <h1>Computer Vision for Fashion Matching</h1>
+         <h1 class="w3-xlarge">Vanessa Lopez</h1>
+         <audio src="audio/a1.m4a" type="audio/x-m4a" controls="" autoplay=""></audio>
+         <p>
+         <img src="image/woman_in_pink.jpeg" alt="Woman in pink sweater" style="width:650px; height:400px"></p>
+<p style="font-color:light-gray; font-size: 10px">Source: https://towardsdatascience.com/classifying-simple-color-matching-outfits-with-the-help-of-fuzzy-logic-fc9733ce8346</p>
+         <div style="width: 700px; margin: auto; align-self: center;">
+         <br>
+            <p style="text-align: left; font-size: 18px">The topic of this tutorial is clothing identification, color, and pattern recognition from images for use in fashion matching for the visually impaired. Putting together a coordinating outfit may be challenging for people who are blind or visually impaired. This tutorial aims to provide assistance with the use of a mobile camera device and computer vision techniques to identify clothing items, recognize their dominant colors, describe patterns, and provide this feedback in an auditory manner to facilitate the process of putting together an outfit.</p>
+         </div>
+      </main>
+      <footer style="margin-bottom: 50px">
+         <a href="problem.html" class="w3-bar-item w3-button w3-white">Next &gt;&gt;</a>
+      </footer>
+   
+
+</body></html>
